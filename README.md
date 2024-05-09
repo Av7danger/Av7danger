@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Av7danger
-- 👀 I’m interested in stock  market,chess,animals  and  new technology
+- 👀 I’m interested in stock  market,chess,animals  and  new technologies
 - 🌱 I’m currently learning kotlin,jetpack compose and flutter
 - 📫 How to reach me instagram and discord
 - 😄 Pronouns: ...
