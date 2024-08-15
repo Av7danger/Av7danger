@@ -1,13 +1,13 @@
-<h1 align="center">YO 👋, I'm D Anish Varma</h1>
-<h3 align="center">A passionate application developer from India......</h3>
+<h1 align="center">Hey peeps 👋, I'm D Anish Varma</h1>
+<h3 align="center">A Master of all trades from India......</h3>
 
 <p align="left"> <a href="https://twitter.com/@manutd199904" target="blank"><img src="https://img.shields.io/twitter/follow/@manutd199904?logo=twitter&style=for-the-badge" alt="@manutd199904" /></a> </p>
 
-- 🔭 I’m currently working on **Mivro**
+- 🔭 I’m currently working on **All my old projects**
 
-- 🌱 I’m currently learning **kali linux, network penetration and cross platform application development**
+- 🌱 I’m currently learning **Kali linux and cross platform application development**
 
-- 💬 Ask me about **Kotlin,stock market and chess**
+- 💬 Ask me about **Kotlin,stock market,chess and anything**
 
 - 📫 How to reach me **anishvarma.ava@gmail.com**
 
