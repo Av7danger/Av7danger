@@ -1,7 +1,5 @@
-<h1 align="center">Hey peep 👋, I'm Anish Varma</h1>
+<h1 align="center">Hey there 👋, I'm Anish Varma</h1>
 <h3 align="center">A Master of all trades from India.</h3>
-
-<p align="left"> <a href="https://twitter.com/@manutd199904" target="blank"><img src="https://img.shields.io/twitter/follow/@manutd199904?logo=twitter&style=for-the-badge" alt="@manutd199904" /></a> </p>
 
 - 🔭 I’m currently working on **All my old projects**
 
